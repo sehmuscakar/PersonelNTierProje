@@ -1,0 +1,11 @@
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\OOPNTierDesktop\LogicPersonel\bin\Debug\LogicPersonel.dll
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\OOPNTierDesktop\LogicPersonel\bin\Debug\LogicPersonel.pdb
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\OOPNTierDesktop\LogicPersonel\bin\Debug\DataAccessLayer.dll
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\OOPNTierDesktop\LogicPersonel\bin\Debug\EntityLayer.dll
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\OOPNTierDesktop\LogicPersonel\bin\Debug\DataAccessLayer.pdb
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\OOPNTierDesktop\LogicPersonel\bin\Debug\EntityLayer.pdb
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\OOPNTierDesktop\LogicPersonel\obj\Debug\LogicPersonel.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\OOPNTierDesktop\LogicPersonel\obj\Debug\LogicPersonel.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\OOPNTierDesktop\LogicPersonel\obj\Debug\LogicPersonel.csproj.CopyComplete
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\OOPNTierDesktop\LogicPersonel\obj\Debug\LogicPersonel.dll
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\OOPNTierDesktop\LogicPersonel\obj\Debug\LogicPersonel.pdb
